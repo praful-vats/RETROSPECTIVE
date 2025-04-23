@@ -87,7 +87,7 @@ function App() {
           <label>Log Input:</label>
           <div className="log-input-options">
             <div className="input-option">
-              <label htmlFor="log-textarea">Or Paste Log Text:</label>
+              <label htmlFor="log-textarea">Paste Log Text:</label>
               <textarea 
                 id="log-textarea"
                 value={logText}
